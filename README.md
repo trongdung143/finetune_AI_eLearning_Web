@@ -23,7 +23,8 @@ finetune_AI_eLearning_Web/
 ## 🚀 Các Mô Hình Hiện Tại
 
 ### 1. Gemma 2 2B - Math to Natural Language
-Mô hình chuyên biệt để giải thích biểu thức toán học bằng ngôn ngữ tự nhiên.
+- Mô hình chuyên biệt để giải thích biểu thức toán học bằng ngôn ngữ tự nhiên.
+- ~99%độ chính xác trên tập dữ liệu kiểm chứng chuyển đổi toán học sang văn bản được chọn lọc.
 
 **Thông tin:**
 - **Base Model**: Google Gemma 2 2B
